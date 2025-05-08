@@ -79,7 +79,6 @@ This Hotel Management System is a Java-based desktop application backed by MySQL
 
 - **Language:** Java (Swing & AWT)
 - **Database:** MySQL
-- **IDE Used:** IntelliJ IDEA / Eclipse
 - **Connectivity:** JDBC
 
 ---
