@@ -35,41 +35,43 @@ This Hotel Management System is a Java-based desktop application backed by MySQL
 ### 6. Admin - Add Drivers  
 ![Add Drivers](assets/six.png)
 
-### 7. Reception - New Customer Form  
-![New Customer](assets/seven.png)
 
-### 8. Rooms Overview  
-![Rooms](assets/eight.png)
+### 7. Reception Dashboard  
+![Reception](assets/seven.png)
 
-### 9. Department Info  
-![Department](assets/nine.png)
+### 8. New Customer Form  
+![New Customer](assets/eight.png)
 
-### 10. All Employees  
-![All Employees](assets/ten.png)
+### 9. Rooms Overview  
+![Rooms](assets/nine.png)
 
-### 11. Customer Information  
-![Customer Info](assets/eleven.png)
+### 10. Department Info  
+![Department](assets/ten.png)
 
-### 12. Manager Information  
-![Manager Info](assets/twelve.png)
+### 11. All Employees  
+![All Employees](assets/eleven.png)
 
-### 13. Checkout  
-![Checkout](assets/thirteen.png)
+### 12. Customer Information  
+![Customer Info](assets/twelve.png)
 
-### 14. Update Status  
-![Update Status](assets/fourteen.png)
+### 13. Manager Information  
+![Manager Info](assets/thirteen.png)
 
-### 15. Update Room Status  
-![Room Status](assets/fifteen.png)
+### 14. Checkout  
+![Checkout](assets/fourteen.png)
 
-### 16. Pickup Service  
-![Pickup Service](assets/sixteen.png)
+### 15. Update Status  
+![Update Status](assets/fifteen.png)
 
-### 17. Search Rooms  
-![Search Rooms](assets/seventeen.png)
+### 16. Update Room Status  
+![Room Status](assets/sixteen.png)
 
-### 18. Final Status  
-![Final](assets/eighteen.png)
+### 17. Pickup Service  
+![Pickup Service](assets/seventeen.png)
+
+### 18. Search Rooms  
+![Search Rooms](assets/eighteen.png)
+
 
 ---
 
