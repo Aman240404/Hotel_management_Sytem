@@ -11,6 +11,7 @@ This Hotel Management System is a Java-based desktop application backed by MySQL
 - Customer and Manager Info Tracking
 - Status and Room Updates
 - Pickup Services and Search Filters
+- User Management
 
 ---
 
